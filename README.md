@@ -24,7 +24,7 @@ aparece correctamente en orden descendente.
 
 ## Integrante 3 - Rama artista
 
-Se modificó el orden en que el nombre del artista y la canción estaban en el constructor.
+Se modificó el orden en que el método getCantante() y getTitulo() están en el método initialize() en la clase PrimaryController.
 
 ### Evidencia del resultado
 
