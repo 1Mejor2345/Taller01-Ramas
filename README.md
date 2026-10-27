@@ -21,3 +21,11 @@ aparece correctamente en orden descendente.
 ### Evidencia del resultado
 
 ![Ranking descendente](TopMusical/evidencias/evidencia%20parte2B.png)
+
+## Integrante 3 - Rama artista
+
+Se modificó el orden en que el nombre del artista y la canción estaban en el constructor.
+
+### Evidencia del resultado
+
+![alt text](image-2.png)
